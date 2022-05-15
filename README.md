@@ -1,4 +1,4 @@
-# Assignment 3.1 - Clash of Clans
+# Clash of Clans 2.0
 
 - To run the code, enter the command **`python3 game.py`**.
 - The king or queen can be moved using **`W,A,S,D`**.
